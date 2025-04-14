@@ -1,0 +1,2 @@
+C:\_Workspace\personal\dataverse-xml-grid\obj\Debug\XMLGrid.pcfproj.AssemblyReference.cache
+C:\_Workspace\personal\dataverse-xml-grid\obj\Debug\XMLGrid.pcfproj.CoreCompileInputs.cache
